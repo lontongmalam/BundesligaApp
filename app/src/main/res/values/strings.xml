@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bundesliga App</string>
+    <string name="item_name">Name</string>
+    <string name="item_desc">Description</string>
+    <string name="view_list">List</string>
+    <string name="view_grid">Grid</string>
+    <string name="view_card">Card</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="app_about">About</string>
+    <string name="menu_view_mode">View</string>
+    <string name="author_name">Raymond Caesar Marpaung</string>
+    <string name="author_email">caesarrays11@gmail.com</string>
+    <string name="item_stad_loc">Location</string>
+    <string name="item_geo">Maps</string>
+    <string name="item_sour">(source: Wikipedia)</string>
+    <string name="disclaimer_label">Disclaimer</string>
+    <string name="disclaimer">The content displayed on the application is the intellectual property of Bundesliga. You may not reuse, republish, or reprint such content without my written consent. All information on this application is merely for educational and informational purposes. It is not intended as a substitute for professional advice.</string>
+    <string name="share_txt">Share to..</string>
+    <string name="fav_txt">Set as favorite..</string>
+    <string name="stadium_desc">Stadium Desc</string>
+    <string name="stadium_name">Stadium Name</string>
+    <string name="loc_inst">(Click on location icon to open map.)</string>
+</resources>

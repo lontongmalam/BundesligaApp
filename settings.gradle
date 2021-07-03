@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Clubs in Bundesliga 2020-21"

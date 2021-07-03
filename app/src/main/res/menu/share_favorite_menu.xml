@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_favorite"
+        android:icon="@drawable/ic_baseline_star_36"
+        android:title="@string/fav_txt"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_share"
+        android:icon="@drawable/ic_baseline_share_selector"
+        android:title="@string/share_txt"
+        app:showAsAction="always" />
+</menu>
